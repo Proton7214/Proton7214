@@ -1,5 +1,5 @@
+# About Me
 ---------------------------------------------------------------------------------------------------------------------------------
-#                                                              About Me
 - 👋 Hi, I’m Proton! This is my GitHub Profile. Feel free to look around!
 - 🌱 Currently Learning: **Rust**
 - 📫 If you want to get in contact with me: **Discord († Proton †#1337), Steam (https://steamcommunity.com/id/proton_-_/)**
