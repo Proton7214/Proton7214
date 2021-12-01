@@ -1,5 +1,7 @@
+---------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Proton! This is my GitHub Profile. Feel free to look around!
 - 🌱 Currently Learning: Rust
 - 📫 If you want to get in contact with me: Discord († Proton †#1337), Steam (https://steamcommunity.com/id/proton_-_/)
 - 👨‍💻 Programming: Lua, C++, C#, Rust (Learning), Python, JavaScript, Web Development ( HTML, PHP, CSS )
 - 👨 Things that i am interested in: Cars, Programming, Being a sick cunt
+---------------------------------------------------------------------------------------------------------------------------------
